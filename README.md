@@ -34,7 +34,8 @@
 <p align="left">
 
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwind,framer,radix,figma,notion,reactrouter,markdown,biome,nodejs,expressjs,redis,postgresql,mongodb,prisma,drizzle,betterauth,turborepo,reactquery,zustand,expo,groq,sentry,pnpm,bun,git,github,githubactions,vercel,docker,aws,cloudflare,debian,bash,python,c&theme=dark&titles=true)](https://www.linkedin.com/in/m-awaisqasim)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,mysql,postgresql,mongodb,pandas,numpy,scikitlearn,jupyter,matplotlib,seaborn,plotly,excel,tableau,airflow,aws,gcp,docker,git,github,markdown&theme=dark&titles=true&size=100
+)](https://www.linkedin.com/in/m-awaisqasim)
 
   <!-- jest -->
 </p>
