@@ -7,7 +7,7 @@
   </a>
 <br/>
 
-![Visits Badge](https://komarev.com/ghpvc/?username=m-awaisqasim&label=Profile%20views&color=red&style=for-the-badge)
+[![Visits Badge](https://komarev.com/ghpvc/?username=m-awaisqasim&label=Profile%20views&color=red&style=for-the-badge)](https://www.linkedin.com/in/m-awaisqasim)
 <a href="https://x.com/AlCryp_Pk" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Awais Qasim | Twitter" ></img></a>
 <a href="https://www.linkedin.com/in/m-awaisqasim" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Awais Qasim | Linkedin" /></a>
 <a href="https://github.com/m-awaisqasim" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Awais Qasim | GitHub" /></a>
