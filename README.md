@@ -1,7 +1,7 @@
   <a href="https://www.linkedin.com/in/m-awaisqasim">
     <img
       alt="Awais Qasim"
-      src="./assets/banner7.jpeg"
+      src="./assets/final banner.png"
       width="100%"
     />
   </a>
