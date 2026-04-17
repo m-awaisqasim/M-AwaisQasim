@@ -1,21 +1,28 @@
-  <a href="https://www.linkedin.com/in/m-awaisqasim">
-    <img
-      alt="Awais Qasim"
-      src="./assets/banner.jpg"
-      width="100%"
-    />
-  </a>
-<br/>
+<a href="https://www.linkedin.com/in/m-awaisqasim">
+  <img alt="Awais Qasim" src="./assets/banner.jpg" width="100%" />
+</a>
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=m-awaisqasim&label=Profile%20views&color=red&style=for-the-badge)](https://www.linkedin.com/in/m-awaisqasim)
-<a href="https://x.com/AlCryp_Pk" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Awais Qasim | Twitter" /></a>
-<a href="https://www.linkedin.com/in/m-awaisqasim" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Awais Qasim | Linkedin" /></a>
-<a href="https://github.com/m-awaisqasim" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Awais Qasim | GitHub" /></a>
-<a href="https://www.linkedin.com/in/m-awaisqasim" target="_blank"><img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="250" /></a>
+<table width="100%"><tr><td>
+
+<a href="https://github.com/m-awaisqasim">
+  <img src="https://komarev.com/ghpvc/?username=m-awaisqasim&label=Profile%20views&color=red&style=for-the-badge" alt="Profile views" />
+</a>
+
+</td><td align="right">
+
+<a href="https://github.com/m-awaisqasim" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/m-awaisqasim" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="LinkedIn" /></a>
+<a href="https://x.com/AlCryp_Pk" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Twitter" /></a>
+
+</td></tr></table>
 
 <h3>
   <img src="https://img.shields.io/badge/ROLE-Quant%20Researcher-0A66C2?style=for-the-badge" alt="Role: Quant Researcher" />
 </h3>
+
+<a href="https://github.com/m-awaisqasim" target="_blank">
+  <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" alt="Octocat GIF" />
+</a>
 
 - 🌱 I'm currently learning **Alpha Research, Statistical Arbitrage, and Portfolio Optimization**
 
@@ -25,10 +32,10 @@
 
 <!-- - 💬 Ask me about **next.js, typescript, framer motion, node.js** -->
 
-- 📫 How to reach me **<sheikhawais2566@gmail.com>**
+- 📫 How to reach me **[sheikhawais2566@gmail.com](mailto:sheikhawais2566@gmail.com)**
 
 <br/>
-<img src="https://img.shields.io/badge/Toolstack-Quant%20%2B%20Data-0F766E?style=for-the-badge" alt="Toolstack" />
+<h3><img src="https://img.shields.io/badge/Toolstack-Quant%20%2B%20Data-0F766E?style=for-the-badge" alt="Toolstack" /></h3>
 <br/>
 
 <p align="left">
