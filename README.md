@@ -2,19 +2,13 @@
   <img alt="Awais Qasim" src="./assets/banner.jpg" width="100%" />
 </a>
 
-<table width="100%"><tr><td>
+<a href="https://x.com/AlCryp_Pk" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Twitter" /></a>
+<a href="https://www.linkedin.com/in/m-awaisqasim" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="LinkedIn" /></a>
+<a href="https://github.com/m-awaisqasim" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" /></a>
 
 <a href="https://github.com/m-awaisqasim">
   <img src="https://komarev.com/ghpvc/?username=m-awaisqasim&label=Profile%20views&color=red&style=for-the-badge" alt="Profile views" />
 </a>
-
-</td><td align="right">
-
-<a href="https://github.com/m-awaisqasim" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/m-awaisqasim" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="LinkedIn" /></a>
-<a href="https://x.com/AlCryp_Pk" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Twitter" /></a>
-
-</td></tr></table>
 
 <h3>
   <img src="https://img.shields.io/badge/ROLE-Quant%20Researcher-0A66C2?style=for-the-badge" alt="Role: Quant Researcher" />
