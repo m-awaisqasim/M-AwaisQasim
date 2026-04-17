@@ -8,7 +8,7 @@
 <br/>
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=m-awaisqasim&label=Profile%20views&color=red&style=for-the-badge)](https://www.linkedin.com/in/m-awaisqasim)
-<a href="https://x.com/AlCryp_Pk" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Awais Qasim | Twitter" ></img></a>
+<a href="https://x.com/AlCryp_Pk" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Awais Qasim | Twitter" /></a>
 <a href="https://www.linkedin.com/in/m-awaisqasim" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Awais Qasim | Linkedin" /></a>
 <a href="https://github.com/m-awaisqasim" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Awais Qasim | GitHub" /></a>
 <a href="https://www.linkedin.com/in/m-awaisqasim" target="_blank"><img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="250" /></a>
@@ -21,7 +21,7 @@
 
 - 👨‍💻 My projects are available at [GitHub](https://github.com/m-awaisqasim?tab=repositories)
 
-- 📝 I am completing BS(FinTech) at [FAST NU](https://nu.edu.pk/Program/BS(FinTech))
+- 📝 I am completing BS(FinTech) at [FAST NU](https://nu.edu.pk/Program/BS%28FinTech%29)
 
 <!-- - 💬 Ask me about **next.js, typescript, framer motion, node.js** -->
 
@@ -29,12 +29,13 @@
 
 <br/>
 <img src="https://img.shields.io/badge/Toolstack-Quant%20%2B%20Data-0F766E?style=for-the-badge" alt="Toolstack" />
-<br>
+<br/>
 
 <p align="left">
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=excel,cpp,python,pandas,numpy,scipy,scikitlearn,jupyter,matlab,postgresql,mysql,matplotlib,seaborn,plotly,docker,git,github,aws,gcp,markdown,ai&theme=dark&titles=true&size=500&perline=15)](https://www.linkedin.com/in/m-awaisqasim)
+  <a href="https://www.linkedin.com/in/m-awaisqasim" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,cpp,python,pandas,numpy,scipy,scikitlearn,jupyter,matlab,postgresql,mysql,matplotlib,seaborn,plotly,docker,git,github,aws,gcp,markdown,ai&theme=dark&titles=true&size=500&perline=15" alt="My Skills" />
+  </a>
 
-  <!-- jest -->
 </p>
 <h3><img src="https://img.shields.io/badge/Weekly-Quant%20Learning%20Breakdown-7C3AED?style=for-the-badge" alt="Weekly Quant Learning Breakdown" /></h3>
 
