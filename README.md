@@ -14,9 +14,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://www.linkedin.com/in/m-awaisqasim" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 
-<h3>AI Data Analyst...</h3>
+<h3>
+  <img src="https://img.shields.io/badge/ROLE-Quant%20Researcher-0A66C2?style=for-the-badge" alt="Role: Quant Researcher" />
+</h3>
 
-- 🌱 I'm currently learning **Data Analysis**
+- 🌱 I'm currently learning **Alpha Research, Statistical Arbitrage, and Portfolio Optimization**
 
 - 👨‍💻 My projects are available at [GitHub](https://github.com/m-awaisqasim?tab=repositories)
 
@@ -27,27 +29,32 @@
 - 📫 How to reach me **<sheikhawais2566@gmail.com>**
 
 <br/>
-
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Things I use</b>
+</b> <img src="https://img.shields.io/badge/Toolstack-Quant%20%2B%20Data-0F766E?style=for-the-badge" alt="Toolstack" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <p align="left">
 
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=excel,mysql,postgresql,mongodb,python,pandas,numpy,excel,tableau,matplotlib,seaborn,plotly,scikitlearn,jupyter,airflow,aws,gcp,docker,markdown,notion,figma,framer,ai,html,css,git,github,vercel&theme=dark&titles=true&size=500&perline=15)](https://www.linkedin.com/in/m-awaisqasim)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=excel,cpp,python,pandas,numpy,scipy,scikitlearn,jupyter,matlab,postgresql,mysql,matplotlib,seaborn,plotly,docker,git,github,aws,gcp,markdown,ai&theme=dark&titles=true&size=500&perline=15)](https://www.linkedin.com/in/m-awaisqasim)
 
   <!-- jest -->
 </p>
-📊<b> Weekly Learning breakdown</b>
+<h3><img src="https://img.shields.io/badge/Weekly-Quant%20Learning%20Breakdown-7C3AED?style=for-the-badge" alt="Weekly Quant Learning Breakdown" /></h3>
 
 ```txt
 Total Time: 32 hrs
 
-SQL          15 hrs 30 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.43 %
-Excel        10 hr 45 mins   ⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.60 %
-Python       3 hr 0 mins     ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.37 %
-Ai           2 hr            ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.25 %
-Other        45 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.34 %
+Alpha Research         12 hrs 15 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.28 %
+Backtesting            8 hrs 20 mins   ⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.04 %
+C++ & Python           5 hrs 10 mins   ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.15 %
+Risk Modeling          3 hrs 45 mins   ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.72 %
+Futures & Derivatives  2 hrs 30 mins   ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.81 %
 ```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
+
+<h3><img src="https://img.shields.io/badge/Call%20To%20Action-Open%20for%20Opportunities-F97316?style=for-the-badge" alt="Call To Action" /></h3>
+
+> Open to quant research internships and collaborations in systematic trading and portfolio analytics.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
