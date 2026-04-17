@@ -11,11 +11,10 @@
 <a href="https://x.com/AlCryp_Pk" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Awais Qasim | Twitter" ></img></a>
 <a href="https://www.linkedin.com/in/m-awaisqasim" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Awais Qasim | Linkedin" /></a>
 <a href="https://github.com/m-awaisqasim" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Awais Qasim | GitHub" /></a>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://www.linkedin.com/in/m-awaisqasim" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 
-<h3>
-  <img src="https://img.shields.io/badge/ROLE-Quant%20Researcher-0A66C2?style=for-the-badge" alt="Role: Quant Researcher" />
+<h3 align="center">
+  <img src="https://img.shields.io/badge/ROLE-Quant%20Researcher-0A66C2?style=flat" alt="Role: Quant Researcher" height="34" />
 </h3>
 
 - 🌱 I'm currently learning **Alpha Research, Statistical Arbitrage, and Portfolio Optimization**
@@ -29,8 +28,8 @@
 - 📫 How to reach me **<sheikhawais2566@gmail.com>**
 
 <br/>
-</b> <img src="https://img.shields.io/badge/Toolstack-Quant%20%2B%20Data-0F766E?style=for-the-badge" alt="Toolstack" />
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<p align="center"><img src="https://img.shields.io/badge/Toolstack-Quant%20%2B%20Data-0F766E?style=flat" alt="Toolstack" height="30" /></p>
+<br>
 
 <p align="left">
 
@@ -39,7 +38,7 @@
 
   <!-- jest -->
 </p>
-<h3><img src="https://img.shields.io/badge/Weekly-Quant%20Learning%20Breakdown-7C3AED?style=for-the-badge" alt="Weekly Quant Learning Breakdown" /></h3>
+<h3 align="center"><img src="https://img.shields.io/badge/Weekly-Quant%20Learning%20Breakdown-7C3AED?style=flat" alt="Weekly Quant Learning Breakdown" height="30" /></h3>
 
 ```txt
 Total Time: 32 hrs
@@ -50,11 +49,9 @@ C++ & Python           5 hrs 10 mins   ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Risk Modeling          3 hrs 45 mins   ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.72 %
 Futures & Derivatives  2 hrs 30 mins   ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.81 %
 ```
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
 
-<h3><img src="https://img.shields.io/badge/Call%20To%20Action-Open%20for%20Opportunities-F97316?style=for-the-badge" alt="Call To Action" /></h3>
+<h3 align="center"><img src="https://img.shields.io/badge/Call%20To%20Action-Open%20for%20Opportunities-F97316?style=flat" alt="Call To Action" height="30" /></h3>
 
 > Open to quant research internships and collaborations in systematic trading and portfolio analytics.
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
