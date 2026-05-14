@@ -2,7 +2,6 @@
   <img alt="Awais Qasim" src="./assets/banner.jpg" width="100%" />
 </a>
 
-<a href="https://x.com/AlCryp_Pk" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Twitter" /></a>
 <a href="https://www.linkedin.com/in/m-awaisqasim" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="LinkedIn" /></a>
 <a href="https://github.com/m-awaisqasim" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" /></a>
 
